@@ -1,0 +1,30 @@
+/*Style Sheet for Assignment 1 - Resume Page*/
+
+body {
+    background-color: #EAFCFF;
+    font-family: "Avenir";
+    font-size: 18px;
+    color: black;
+}
+
+div {
+    text-align: center;
+    background-color: white;
+}
+
+#header {
+    font-size: 30px;
+    font-family: "Apple Chancery";
+}
+
+.section {
+    font-size: 20px;
+    color: #043C96;
+}
+
+.job_title {
+    font-size: 18px;
+    color: #5B6677;
+    background-color: #EAFCFF;
+}
+

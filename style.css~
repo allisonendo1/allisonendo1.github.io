@@ -1,0 +1,8 @@
+/*Style Sheet for Assignment 1*/
+
+body {
+    background-color: #EAFCFF;
+    font-family: "Avenir";
+    font-size: 18px;
+    color: black;
+}
